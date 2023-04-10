@@ -23,6 +23,7 @@ set -gx EDITOR nvim
 set -gx PATH bin $PATH
 set -gx PATH ~/bin $PATH
 set -gx PATH ~/.local/bin $PATH
+set -gx PATH /home/iura/.cargo/bin $PATH
 
 # theme
 set -g theme_color_scheme terminal-dark
